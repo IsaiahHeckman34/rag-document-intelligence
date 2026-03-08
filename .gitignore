@@ -1,0 +1,10 @@
+﻿vector_db/
+chroma_db/
+test_db/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.npz
+metadata.json
+documents/
